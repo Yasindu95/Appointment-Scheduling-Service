@@ -1,1 +1,1 @@
-print("Running Appointment scheduling service");
+print("Running");
